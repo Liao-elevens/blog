@@ -1,0 +1,21 @@
+# eslint 在进行规则校验时要跳过的文件和目录
+
+/node_modules
+
+.vscode
+.idea
+dist
+/public
+/docs
+.husky
+.local
+/bin
+
+# 其他类型的文件
+*.js
+*.png
+*.eot
+*.ttf
+*.woff
+*.sh
+*.md
